@@ -1,8 +1,11 @@
 ---
-title: "SUDA Projects"
-slug: "index"
-featured_image: "maddyetal.jpg"
+title: SUDA Projects
+slug: index
+featured_image: maddyetal.jpg
+date: 2025-03-29T11:59:00.000Z
+description: A summary of our activities as a charity
 ---
+Test edit.
 
 Kalalasi is a poor and remote village in the Sumbawanga region of Tanzania. With a population of 2,500, the main occupations are peasent farming, cattle herding, pottery and basketry. There is a village school and a small dispensary. The dispensary, however, is quite inadequate for the needs of the village, let alone the wider region it also serves. Through our Lent appeal, we hope to raise the £7,800 needed to assist the villagers build a medical clinic and health centre.
 
