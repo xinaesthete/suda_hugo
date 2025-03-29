@@ -3,29 +3,28 @@ title: "Greening Project"
 #slug: "index"
 ---
 
-![](/wp-content/2008/11/PICT2362-940x198.jpg)
+![](PICT2362.jpg)
 
 Mbeka remembers Kalalasi village as a green place full of wild fruit trees, flowers, grass, bushes and shady places. There were ponds full of frogs and other small creatures; a small river used to flow nearby. People could gather mushrooms and green vegetables. The woods nearby were great for hunting with dogs and playing hide and seek. It was near enough for children to go unsupervised.
 
-{{< gallery >}}
+todo `< gallery >`
+
+![](PICT0296.jpg)
+![](PICT0296.jpg)
+
+![](PICT2234.jpg)
+
+![](PICT2242.jpg)
+
+![](PICT2305.jpg)
+
+![](PICT2306.jpg)
+
+![](PICT2362.jpg)
 
 
-[![](/wp-content/2008/11/PICT0296-150x150.jpg)](/projects/greening-project/minolta-digital-camera-19/)
 
-[![](/wp-content/2008/11/PICT2234-150x150.jpg)](/projects/greening-project/minolta-digital-camera-20/)
-
-[![](/wp-content/2008/11/PICT2242-150x150.jpg)](/projects/greening-project/minolta-digital-camera-21/)
-
-[![](/wp-content/2008/11/PICT2305-150x150.jpg)](/projects/greening-project/minolta-digital-camera-22/)
-
-[![](/wp-content/2008/11/PICT2306-150x150.jpg)](/projects/greening-project/minolta-digital-camera-23/)
-
-[![](/wp-content/2008/11/PICT2362-150x150.jpg)](/projects/greening-project/minolta-digital-camera-24/)
-
-
-
-
-{{< /gallery >}}
+todo `< /gallery >`
 
 All this changed when the local district council introduced a policy which said that people should grow maize in the village, around their homes. They believed that they would pick sweet corn as they needed it and save time walking a couple of miles to their fields. They campaigned and penalised people who didn’t do this. As a result the villagers cleared all the trees and bushes in the village. Although there were short-term benefits, as they could pick sweet corn by their dwellings, in the long term it led to serious desertification, increased incidence of malaria in the rainy season and respiratory diseases in the dry season due to huge amounts of dust. Worst of these are bronchitis, coughs and eye infections.
 
