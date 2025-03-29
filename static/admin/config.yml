@@ -12,7 +12,7 @@ collections:
     editor:
       preview: false
     nested:
-      depth: 2
+      depth: 3
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
