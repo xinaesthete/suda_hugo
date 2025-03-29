@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":448,"date":"2015-05-29T17:22:14","date\_gmt":"2015-05-29T16:22:14","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2015\\/05\\/DSC\_0625.jpg"},"modified":"2015-05-29T17:32:10","modified\_gmt":"2015-05-29T16:32:10","slug":"dsc\_0625","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/health-improvements\\/dsc\_0625\\/","title":{"rendered":"DSC\_0625"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

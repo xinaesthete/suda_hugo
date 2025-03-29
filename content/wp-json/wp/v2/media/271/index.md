@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":271,"date":"2011-09-29T21:55:18","date\_gmt":"2011-09-29T20:55:18","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2008\\/11\\/kapita\_bunk.jpg"},"modified":"2011-09-29T21:55:18","modified\_gmt":"2011-09-29T20:55:18","slug":"kapita\_bunk-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/schools\\/matai-bunk-beds-project\\/kapita\_bunk-2\\/","title":{"rendered":"kapita\_bunk"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

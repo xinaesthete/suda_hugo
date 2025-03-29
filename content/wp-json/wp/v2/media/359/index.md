@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":359,"date":"2011-12-22T19:06:56","date\_gmt":"2011-12-22T19:06:56","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/50.jpg"},"modified":"2011-12-22T19:06:56","modified\_gmt":"2011-12-22T19:06:56","slug":"mhairi-in-kalalasi-for-her-medical-elective-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/mhairi-in-kalalasi-for-her-medical-elective-2\\/","title":{"rendered":"Mhairi in Kalalasi for her Medical elective"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

@@ -1,6 +1,6 @@
 ---
 title: "Rain Water Harvesting – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 When we went to Kalalasi Village in August 2007 to build the Health Centre we were determined to introduce the water harvesting idea to the villagers, who are now suffering from severe droughts. The rain patterns have changed drastically in recent years. The rainy seasons have become shorter and more intense. When it pours there is water everywhere, even in places where it is not needed. This is bad for farming and when the skies clear what crops there are wither on their stalks. In the past rain came in small doses over a long period and the crops grew with out needing irrigation. This was just right for farming and for the water sources.

@@ -1,6 +1,6 @@
 ---
 title: "Greening Project – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 ![](/wp-content/2008/11/PICT2362-940x198.jpg)

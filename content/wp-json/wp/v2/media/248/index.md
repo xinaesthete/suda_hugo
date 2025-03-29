@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":248,"date":"2011-09-29T21:47:37","date\_gmt":"2011-09-29T20:47:37","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2008\\/11\\/PICT2234.jpg"},"modified":"2015-05-29T21:45:00","modified\_gmt":"2015-05-29T20:45:00","slug":"minolta-digital-camera-20","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/greening-project\\/minolta-digital-camera-20\\/","title":{"rendered":"Before greening"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

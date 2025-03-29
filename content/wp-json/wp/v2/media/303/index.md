@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":303,"date":"2011-09-29T22:05:54","date\_gmt":"2011-09-29T21:05:54","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2007\\/11\\/DSCF3049.jpg"},"modified":"2011-09-29T22:05:54","modified\_gmt":"2011-09-29T21:05:54","slug":"dscf3049","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/dscf3049\\/","title":{"rendered":"DSCF3049"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

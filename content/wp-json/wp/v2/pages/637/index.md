@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":637,"date":"2020-10-17T12:45:00","date\_gmt":"2020-10-17T11:45:00","guid":{"rendered":"http:\\/\\/sudawp.loc\\/?page\_id=637"},"modified":"2022-02-07T13:06:57","modified\_gmt":"2022-02-07T13:06:57","slug":"kalalasi-borehole-project","status":"publish","type":"page","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-borehole-project\\/","title":{"rendered":"Kalalasi Borehole Project"},"content":{"rendered":"\\n

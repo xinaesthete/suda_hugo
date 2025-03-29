@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":25,"date":"2007-07-05T20:33:21","date\_gmt":"2007-07-05T20:33:21","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?p=25"},"modified":"2007-09-03T16:21:24","modified\_gmt":"2007-09-03T16:21:24","slug":"news-as-of-5th-july-2007","status":"publish","type":"post","link":"http:\\/\\/sudawp.loc\\/2007\\/07\\/news-as-of-5th-july-2007\\/","title":{"rendered":"News as of 5th July 2007"},"content":{"rendered":"

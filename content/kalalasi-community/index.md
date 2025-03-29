@@ -1,6 +1,6 @@
 ---
 title: "Kalalasi Community – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 ![](/wp-content/2015/05/DSC_0270-940x198.jpg)

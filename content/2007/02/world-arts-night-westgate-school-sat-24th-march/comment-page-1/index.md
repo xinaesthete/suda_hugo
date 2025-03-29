@@ -1,6 +1,6 @@
 ---
 title: "World Arts Night: Westgate School, Sat 24th March – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 **WORLD ARTS NIGHT**

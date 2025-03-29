@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":364,"date":"2011-12-22T19:07:14","date\_gmt":"2011-12-22T19:07:14","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/56.jpg"},"modified":"2011-12-22T19:07:14","modified\_gmt":"2011-12-22T19:07:14","slug":"sunset-in-kalalasi-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/sunset-in-kalalasi-2\\/","title":{"rendered":"Sunset in Kalalasi"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

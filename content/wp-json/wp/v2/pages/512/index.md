@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":512,"date":"2015-05-29T21:23:52","date\_gmt":"2015-05-29T20:23:52","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?page\_id=512"},"modified":"2015-05-29T21:29:14","modified\_gmt":"2015-05-29T20:29:14","slug":"kalalasi-community","status":"publish","type":"page","link":"http:\\/\\/sudawp.loc\\/kalalasi-community\\/","title":{"rendered":"Kalalasi Community"},"content":{"rendered":"

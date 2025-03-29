@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":447,"date":"2015-05-29T18:27:36","date\_gmt":"2015-05-29T17:27:36","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?page\_id=447"},"modified":"2015-05-29T18:27:36","modified\_gmt":"2015-05-29T17:27:36","slug":"kanyele-beds","status":"publish","type":"page","link":"http:\\/\\/sudawp.loc\\/projects\\/schools\\/kanyele-beds\\/","title":{"rendered":"Kanyele School Beds"},"content":{"rendered":"

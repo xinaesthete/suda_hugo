@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":28,"date":"2007-11-14T21:13:07","date\_gmt":"2007-11-14T21:13:07","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?page\_id=28"},"modified":"2022-02-07T15:11:34","modified\_gmt":"2022-02-07T15:11:34","slug":"kalalasi-kiln","status":"publish","type":"page","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-kiln\\/","title":{"rendered":"Kalalasi Kiln"},"content":{"rendered":"

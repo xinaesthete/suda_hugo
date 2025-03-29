@@ -1,6 +1,6 @@
 ---
 title: "Kalalasi Kiln – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 ![](/wp-content/PICT2373-940x198.jpg)

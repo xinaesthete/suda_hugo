@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":494,"date":"2015-05-29T18:56:22","date\_gmt":"2015-05-29T17:56:22","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2015\\/05\\/scan0297.jpg"},"modified":"2015-05-29T18:56:22","modified\_gmt":"2015-05-29T17:56:22","slug":"scan0297","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/schools\\/kalalasi-primary-school-kitchen\\/scan0297\\/","title":{"rendered":"scan0297"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

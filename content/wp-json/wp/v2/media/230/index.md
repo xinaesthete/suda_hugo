@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":230,"date":"2011-09-29T20:34:30","date\_gmt":"2011-09-29T19:34:30","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/PICT2139.jpg"},"modified":"2011-09-29T20:34:30","modified\_gmt":"2011-09-29T19:34:30","slug":"minolta-digital-camera-5","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-kiln\\/minolta-digital-camera-5\\/","title":{"rendered":"How the villagers originally fired their pots."},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

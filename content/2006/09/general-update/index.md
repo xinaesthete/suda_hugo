@@ -1,6 +1,6 @@
 ---
 title: "General update. – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 Quite a number of things have gone on over the last several months; most notably, we have made excellent progress with our fundraising thanks to a Covenant With the Poor appeal through the Catholic Church. Through that appeal, we have raised a further Â£6000, which brings us very much in line with our goal of Â£8000 for the health center.  

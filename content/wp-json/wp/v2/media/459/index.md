@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":459,"date":"2015-05-29T17:36:48","date\_gmt":"2015-05-29T16:36:48","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2015\\/05\\/DSC\_0558.jpg"},"modified":"2015-05-29T18:19:22","modified\_gmt":"2015-05-29T17:19:22","slug":"dsc\_0558","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/schools\\/kanyele-beds\\/dsc\_0558\\/","title":{"rendered":"DSC\_0558"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

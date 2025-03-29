@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":375,"date":"2011-12-22T19:08:00","date\_gmt":"2011-12-22T19:08:00","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/87.jpg"},"modified":"2011-12-22T19:08:00","modified\_gmt":"2011-12-22T19:08:00","slug":"lake-tanganyika-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/lake-tanganyika-2\\/","title":{"rendered":"Lake Tanganyika"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

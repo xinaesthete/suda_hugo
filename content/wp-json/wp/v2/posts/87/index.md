@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":87,"date":"2009-04-16T16:10:11","date\_gmt":"2009-04-16T15:10:11","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?p=87"},"modified":"2021-01-14T17:34:09","modified\_gmt":"2021-01-14T17:34:09","slug":"agm-report-2008","status":"publish","type":"post","link":"http:\\/\\/sudawp.loc\\/2009\\/04\\/agm-report-2008\\/","title":{"rendered":"AGM Report 2008"},"content":{"rendered":"

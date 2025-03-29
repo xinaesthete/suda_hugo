@@ -1,6 +1,6 @@
 ---
 title: "admin – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 **WORLD ARTS NIGHT**

@@ -1,5 +1,5 @@
 ---
 title: "Admin"
-slug: "admin"
+#slug: "admin"
 ---
 This should load the DecapCMS stuff.

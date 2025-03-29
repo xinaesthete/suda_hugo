@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":272,"date":"2011-09-29T21:55:24","date\_gmt":"2011-09-29T20:55:24","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2008\\/11\\/PICT2453.jpg"},"modified":"2011-09-29T21:55:24","modified\_gmt":"2011-09-29T20:55:24","slug":"matai-school-boys-dormitory","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/schools\\/matai-bunk-beds-project\\/matai-school-boys-dormitory\\/","title":{"rendered":"Matai School, Boys dormitory"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

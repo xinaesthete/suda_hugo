@@ -1,6 +1,6 @@
 ---
 title: "Kalalasi Primary School Kitchen – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 ![](/wp-content/2015/05/DSC_0374-940x198.jpg)

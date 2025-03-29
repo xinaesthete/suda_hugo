@@ -1,6 +1,6 @@
 ---
 title: "Health Centre Improvements, 2013 – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 ![](/wp-content/2015/05/DSC_0604-940x198.jpg)

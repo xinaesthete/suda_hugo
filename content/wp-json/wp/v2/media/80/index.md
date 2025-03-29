@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":80,"date":"2009-04-16T12:58:56","date\_gmt":"2009-04-16T12:58:56","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/dscf3142.jpg"},"modified":"2009-04-16T12:58:56","modified\_gmt":"2009-04-16T12:58:56","slug":"dscf3142","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/2009\\/04\\/one-volunteers-experience\\/dscf3142\\/","title":{"rendered":"dscf3142"},"author":4,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

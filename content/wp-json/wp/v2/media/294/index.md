@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":294,"date":"2011-09-29T22:05:00","date\_gmt":"2011-09-29T21:05:00","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2007\\/11\\/Davinder1571.jpg"},"modified":"2011-09-29T22:05:00","modified\_gmt":"2011-09-29T21:05:00","slug":"davinder1571","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/davinder1571\\/","title":{"rendered":"Davinder1571"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

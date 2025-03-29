@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":366,"date":"2011-12-22T19:07:23","date\_gmt":"2011-12-22T19:07:23","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/68.jpg"},"modified":"2011-12-22T19:07:23","modified\_gmt":"2011-12-22T19:07:23","slug":"pentax-image-17","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/pentax-image-17\\/","title":{"rendered":"PENTAX Image"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

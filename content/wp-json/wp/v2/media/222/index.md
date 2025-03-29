@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":222,"date":"2011-09-29T20:32:42","date\_gmt":"2011-09-29T19:32:42","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/IMG\_0371.jpg"},"modified":"2011-09-29T20:32:42","modified\_gmt":"2011-09-29T19:32:42","slug":"img\_0371","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-kiln\\/img\_0371\\/","title":{"rendered":"IMG\_0371"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

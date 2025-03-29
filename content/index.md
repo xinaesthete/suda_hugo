@@ -1,6 +1,6 @@
 ---
 title: "SUDA – sumbawanga development action"
-slug: "index"
+#slug: "index"
 ---
 
 **WHO ARE WE?**  

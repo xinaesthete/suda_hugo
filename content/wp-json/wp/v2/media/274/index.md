@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":274,"date":"2011-09-29T21:55:45","date\_gmt":"2011-09-29T20:55:45","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2008\\/11\\/PICT2460.jpg"},"modified":"2011-09-29T21:55:45","modified\_gmt":"2011-09-29T20:55:45","slug":"matai-teachers-and-volunteers-from-winchester","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/schools\\/matai-bunk-beds-project\\/matai-teachers-and-volunteers-from-winchester\\/","title":{"rendered":"Matai Teachers and Volunteers from Winchester"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

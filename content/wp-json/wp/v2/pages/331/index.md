@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":331,"date":"2011-12-22T17:39:26","date\_gmt":"2011-12-22T17:39:26","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?page\_id=331"},"modified":"2022-02-07T15:03:13","modified\_gmt":"2022-02-07T15:03:13","slug":"mhairis-visit-to-kalalasi-as-a-medical-student","status":"publish","type":"page","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/","title":{"rendered":"Mhairi’s Elective visit to Kalalasi as a medical student, Summer 2010"},"content":{"rendered":"

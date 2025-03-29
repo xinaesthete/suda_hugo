@@ -1,6 +1,6 @@
 ---
 title: "Greening Update 2014 – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 ![](/wp-content/2015/05/DSC_0378-940x198.jpg)

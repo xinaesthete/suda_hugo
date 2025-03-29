@@ -1,6 +1,6 @@
 ---
 title: "Kalalasi Health Centre – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 ![](/wp-content/2007/11/DSCF3081-940x198.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":31,"date":"2008-03-27T15:31:32","date\_gmt":"2008-03-27T15:31:32","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?p=31"},"modified":"2008-03-27T15:35:43","modified\_gmt":"2008-03-27T15:35:43","slug":"health-centre-opening-ceremony","status":"publish","type":"post","link":"http:\\/\\/sudawp.loc\\/2008\\/03\\/health-centre-opening-ceremony\\/","title":{"rendered":"Health Centre Opening Ceremony"},"content":{"rendered":"

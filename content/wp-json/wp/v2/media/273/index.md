@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":273,"date":"2011-09-29T21:55:31","date\_gmt":"2011-09-29T20:55:31","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2008\\/11\\/PICT2459.jpg"},"modified":"2011-09-29T21:55:31","modified\_gmt":"2011-09-29T20:55:31","slug":"a-song-and-dance-to-welcome-us","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/schools\\/matai-bunk-beds-project\\/a-song-and-dance-to-welcome-us\\/","title":{"rendered":"A song and dance to welcome us"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

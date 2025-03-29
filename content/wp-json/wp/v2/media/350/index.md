@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":350,"date":"2011-12-22T19:06:10","date\_gmt":"2011-12-22T19:06:10","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/21.jpg"},"modified":"2011-12-22T19:06:10","modified\_gmt":"2011-12-22T19:06:10","slug":"kalalasi-mini-market-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/kalalasi-mini-market-2\\/","title":{"rendered":"Kalalasi mini market"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

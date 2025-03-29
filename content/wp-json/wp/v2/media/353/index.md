@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":353,"date":"2011-12-22T19:06:24","date\_gmt":"2011-12-22T19:06:24","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/27.jpg"},"modified":"2011-12-22T19:06:24","modified\_gmt":"2011-12-22T19:06:24","slug":"making-bricks-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/making-bricks-2\\/","title":{"rendered":"Making bricks"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

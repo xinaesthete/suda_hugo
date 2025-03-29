@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":385,"date":"2011-12-22T19:08:42","date\_gmt":"2011-12-22T19:08:42","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/106.jpg"},"modified":"2011-12-22T19:08:42","modified\_gmt":"2011-12-22T19:08:42","slug":"vaccinations-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/vaccinations-2\\/","title":{"rendered":"Vaccinations"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

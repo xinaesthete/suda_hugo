@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":2,"date":"2006-02-05T13:23:28","date\_gmt":"2006-02-05T12:23:28","guid":{"rendered":"http:\\/\\/sumbawanga.org.uk\\/about\\/"},"modified":"2021-01-14T17:29:35","modified\_gmt":"2021-01-14T17:29:35","slug":"home","status":"publish","type":"page","link":"http:\\/\\/sudawp.loc\\/","title":{"rendered":"Home"},"content":{"rendered":"

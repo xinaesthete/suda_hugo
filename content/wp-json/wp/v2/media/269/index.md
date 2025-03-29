@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":269,"date":"2011-09-29T21:55:09","date\_gmt":"2011-09-29T20:55:09","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2008\\/11\\/DSCF3164.jpg"},"modified":"2011-09-29T21:55:09","modified\_gmt":"2011-09-29T20:55:09","slug":"dscf3164-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/schools\\/matai-bunk-beds-project\\/dscf3164-2\\/","title":{"rendered":"DSCF3164"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

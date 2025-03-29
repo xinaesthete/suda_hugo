@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":3,"date":"2006-02-25T13:28:27","date\_gmt":"2006-02-25T13:28:27","guid":{"rendered":"http:\\/\\/69.89.22.108\\/~xinaesth\\/suda\\/?page\_id=3"},"modified":"2022-02-07T13:40:03","modified\_gmt":"2022-02-07T13:40:03","slug":"projects","status":"publish","type":"page","link":"http:\\/\\/sudawp.loc\\/projects\\/","title":{"rendered":"Projects"},"content":{"rendered":"

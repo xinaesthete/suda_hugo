@@ -1,6 +1,6 @@
 ---
 title: "Mhairi’s Elective visit to Kalalasi as a medical student, Summer 2010 – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 [![](/wp-content/2011/12/98-e1324580622252.jpg "PENTAX Image")](http://www.sumbawanga.org.uk/projects/kalalasi-health-centre/mhairis-visit-to-kalalasi-as-a-medical-student/pentax-image-2/)My journey to Kalalasi started while I was a medical student in Cambridge. I wanted to do a medical placement somewhere rural and a bit out of touch with the healthcare system I was used to. The problem was, by definition it was not possible to get in contact with such a place!

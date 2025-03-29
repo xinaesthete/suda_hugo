@@ -1,6 +1,6 @@
 ---
 title: "Kalalasi Borehole Project – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 We’ve completed our biggest project to date, and one that we know will have a massive impact on the villagers in Kalalasi: constructing a borehole facilitating access to fresh water.

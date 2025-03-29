@@ -1,6 +1,6 @@
 ---
 title: "agm – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 SUDA Chairman’s Report

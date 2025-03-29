@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":11,"date":"2007-02-02T15:59:41","date\_gmt":"2007-02-02T15:59:41","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?p=11"},"modified":"2021-01-14T17:58:54","modified\_gmt":"2021-01-14T17:58:54","slug":"world-arts-night-westgate-school-sat-24th-march","status":"publish","type":"post","link":"http:\\/\\/sudawp.loc\\/2007\\/02\\/world-arts-night-westgate-school-sat-24th-march\\/","title":{"rendered":"World Arts Night: Westgate School, Sat 24th March"},"content":{"rendered":"

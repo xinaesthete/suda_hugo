@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":374,"date":"2011-12-22T19:07:56","date\_gmt":"2011-12-22T19:07:56","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/85.jpg"},"modified":"2011-12-22T19:07:56","modified\_gmt":"2011-12-22T19:07:56","slug":"kalambo-falls-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/kalambo-falls-2\\/","title":{"rendered":"Kalambo Falls"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

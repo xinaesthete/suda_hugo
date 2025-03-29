@@ -1,6 +1,6 @@
 ---
 title: "Garden Party: Friday 20th July 2007 4-7 – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 If you’re in the Winchester area and would like to meet up with us all to help raise funds for a bio gas project in Kalalasi, we’d love to see you. Please let me know on 01962 861217 or email \[kitty \*at\* sumbawanga \*dot\* org \*dot\* uk\] if you plan to attend.

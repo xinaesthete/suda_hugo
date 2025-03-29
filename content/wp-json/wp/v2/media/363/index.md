@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":363,"date":"2011-12-22T19:07:11","date\_gmt":"2011-12-22T19:07:11","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/55.jpg"},"modified":"2011-12-22T19:07:11","modified\_gmt":"2011-12-22T19:07:11","slug":"the-village-appreciates-the-help-of-suda-and-st-peters-church-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/the-village-appreciates-the-help-of-suda-and-st-peters-church-2\\/","title":{"rendered":"The Village appreciates the help of SUDA and St. Peter’s Church"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

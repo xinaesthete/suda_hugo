@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":234,"date":"2011-09-29T20:35:28","date\_gmt":"2011-09-29T19:35:28","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/PICT2197.jpg"},"modified":"2011-09-29T20:35:28","modified\_gmt":"2011-09-29T19:35:28","slug":"minolta-digital-camera-9","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-kiln\\/minolta-digital-camera-9\\/","title":{"rendered":"MINOLTA DIGITAL CAMERA"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

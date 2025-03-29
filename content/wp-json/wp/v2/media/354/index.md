@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":354,"date":"2011-12-22T19:06:31","date\_gmt":"2011-12-22T19:06:31","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/30.jpg"},"modified":"2011-12-22T19:06:31","modified\_gmt":"2011-12-22T19:06:31","slug":"milking-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/milking-2\\/","title":{"rendered":"Milking"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

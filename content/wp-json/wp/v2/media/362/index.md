@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":362,"date":"2011-12-22T19:07:07","date\_gmt":"2011-12-22T19:07:07","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/54.jpg"},"modified":"2011-12-22T19:07:07","modified\_gmt":"2011-12-22T19:07:07","slug":"kalalasi-health-centre-3","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/kalalasi-health-centre-3\\/","title":{"rendered":"Kalalasi Health Centre"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

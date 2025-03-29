@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":29,"date":"2007-11-14T21:49:07","date\_gmt":"2007-11-14T21:49:07","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?p=29"},"modified":"2021-01-14T17:56:57","modified\_gmt":"2021-01-14T17:56:57","slug":"reporting-back-on-the-health-centre","status":"publish","type":"post","link":"http:\\/\\/sudawp.loc\\/2007\\/11\\/reporting-back-on-the-health-centre\\/","title":{"rendered":"Reporting back on the health centre"},"content":{"rendered":"

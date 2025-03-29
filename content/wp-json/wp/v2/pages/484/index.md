@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":484,"date":"2015-05-29T18:27:01","date\_gmt":"2015-05-29T17:27:01","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?page\_id=484"},"modified":"2015-05-29T18:28:02","modified\_gmt":"2015-05-29T17:28:02","slug":"schools","status":"publish","type":"page","link":"http:\\/\\/sudawp.loc\\/projects\\/schools\\/","title":{"rendered":"Living standards in Schools"},"content":{"rendered":"

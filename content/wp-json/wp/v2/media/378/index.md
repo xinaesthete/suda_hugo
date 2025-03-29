@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":378,"date":"2011-12-22T19:08:11","date\_gmt":"2011-12-22T19:08:11","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/95.jpg"},"modified":"2011-12-22T19:08:11","modified\_gmt":"2011-12-22T19:08:11","slug":"matai-market-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/matai-market-2\\/","title":{"rendered":"Matai market"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

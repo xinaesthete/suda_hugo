@@ -1,6 +1,6 @@
 ---
 title: "Living standards in Schools – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 ![](/wp-content/2015/05/DSC_0204-940x198.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":33,"date":"2008-11-28T21:55:59","date\_gmt":"2008-11-28T21:55:59","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?p=33"},"modified":"2008-11-28T22:56:36","modified\_gmt":"2008-11-28T22:56:36","slug":"agm","status":"publish","type":"post","link":"http:\\/\\/sudawp.loc\\/2008\\/11\\/agm\\/","title":{"rendered":"AGM"},"content":{"rendered":"

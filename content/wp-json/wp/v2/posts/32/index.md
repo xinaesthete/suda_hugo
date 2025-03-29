@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":32,"date":"2008-11-28T22:54:26","date\_gmt":"2008-11-28T22:54:26","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?p=32"},"modified":"2008-11-28T22:54:26","modified\_gmt":"2008-11-28T22:54:26","slug":"pre-christmas-fundraiser","status":"publish","type":"post","link":"http:\\/\\/sudawp.loc\\/2008\\/11\\/pre-christmas-fundraiser\\/","title":{"rendered":"Pre-Christmas Fundraiser"},"content":{"rendered":"

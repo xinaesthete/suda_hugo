@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":220,"date":"2011-09-29T20:32:14","date\_gmt":"2011-09-29T19:32:14","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/DSCF3179.jpg"},"modified":"2011-09-29T20:32:14","modified\_gmt":"2011-09-29T19:32:14","slug":"looking-at-site-for-girls-boarding-school","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-kiln\\/looking-at-site-for-girls-boarding-school\\/","title":{"rendered":"looking at site for girls boarding school"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

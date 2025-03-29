@@ -1,6 +1,6 @@
 ---
 title: "project update – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 _The following piece was written by Rhea Schmitt. She kindly volunteered to make a documentary film about building the health Centre in Kalalasi._

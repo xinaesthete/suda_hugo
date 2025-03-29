@@ -1,6 +1,6 @@
 ---
 title: "Welcome to our new website. – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 Here is the new [wordpress](http://wordpress.org/) based website for the SUDA charity (yes, it’s official now – we are a registered charity, #1111900). This should make it easy to keep anyone who’s interested up to date on all of our activities. If you are so inclined, you can subscribe to rss newsfeeds, and be kept abreast of any changes.

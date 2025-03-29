@@ -1,6 +1,5 @@
 ---
 title: SUDA Projects
-slug: index
 featured_image: maddyetal.jpg
 date: 2025-03-29T11:59:00.000Z
 description: A summary of our activities as a charity

@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":6,"date":"2006-09-08T20:15:49","date\_gmt":"2006-09-08T20:15:49","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?p=6"},"modified":"2007-04-18T22:12:02","modified\_gmt":"2007-04-18T22:12:02","slug":"general-update","status":"publish","type":"post","link":"http:\\/\\/sudawp.loc\\/2006\\/09\\/general-update\\/","title":{"rendered":"General update."},"content":{"rendered":"

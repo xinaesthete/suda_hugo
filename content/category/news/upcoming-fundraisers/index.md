@@ -1,6 +1,6 @@
 ---
 title: "Upcoming Fundraisers – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 On Saturday 6th Dec.2008 we are having a fundraiser  

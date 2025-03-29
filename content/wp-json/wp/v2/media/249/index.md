@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":249,"date":"2011-09-29T21:47:44","date\_gmt":"2011-09-29T20:47:44","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2008\\/11\\/PICT2242.jpg"},"modified":"2011-09-29T21:47:44","modified\_gmt":"2011-09-29T20:47:44","slug":"minolta-digital-camera-21","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/greening-project\\/minolta-digital-camera-21\\/","title":{"rendered":"MINOLTA DIGITAL CAMERA"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

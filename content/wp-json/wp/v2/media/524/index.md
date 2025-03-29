@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":524,"date":"2015-05-29T20:48:28","date\_gmt":"2015-05-29T19:48:28","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2015\\/05\\/DSC\_03701.jpg"},"modified":"2015-05-29T20:48:28","modified\_gmt":"2015-05-29T19:48:28","slug":"dsc\_0370-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/kalalasi-community\\/dsc\_0370-2\\/","title":{"rendered":"DSC\_0370"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

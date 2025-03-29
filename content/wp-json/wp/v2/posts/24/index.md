@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":24,"date":"2007-07-05T18:01:20","date\_gmt":"2007-07-05T18:01:20","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/?p=24"},"modified":"2007-09-03T16:21:55","modified\_gmt":"2007-09-03T16:21:55","slug":"garden-party-friday-20th-july-2007-4-7","status":"publish","type":"post","link":"http:\\/\\/sudawp.loc\\/2007\\/07\\/garden-party-friday-20th-july-2007-4-7\\/","title":{"rendered":"Garden Party: Friday 20th July 2007 4-7"},"content":{"rendered":"

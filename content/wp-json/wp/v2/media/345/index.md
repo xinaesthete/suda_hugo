@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":345,"date":"2011-12-22T19:05:47","date\_gmt":"2011-12-22T19:05:47","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/07.jpg"},"modified":"2011-12-22T19:05:47","modified\_gmt":"2011-12-22T19:05:47","slug":"drinking-water-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/drinking-water-2\\/","title":{"rendered":"Drinking water"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":562,"date":"2015-05-29T21:29:13","date\_gmt":"2015-05-29T20:29:13","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2015\\/05\\/DSC\_0254.jpg"},"modified":"2015-05-29T21:29:13","modified\_gmt":"2015-05-29T20:29:13","slug":"dsc\_0254","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/greening-project\\/update-2014\\/dsc\_0254\\/","title":{"rendered":"DSC\_0254"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

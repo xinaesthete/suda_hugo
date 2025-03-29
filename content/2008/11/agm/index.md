@@ -1,6 +1,6 @@
 ---
 title: "AGM – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 We will be holding our AGM on 29th Nov. 2008 at 10 Christchurch Rd. Winchester.

@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":368,"date":"2011-12-22T19:07:30","date\_gmt":"2011-12-22T19:07:30","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/71.jpg"},"modified":"2011-12-22T19:07:30","modified\_gmt":"2011-12-22T19:07:30","slug":"keyboard-powered-by-car-battery-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/keyboard-powered-by-car-battery-2\\/","title":{"rendered":"Keyboard powered by car battery"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

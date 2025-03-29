@@ -1,6 +1,6 @@
 ---
 title: "News as of 5th July 2007 – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 We raised just over Â£1000 at Westgate. It was a lively evening and the atmosphere with the African Market and variety of performers was brilliant. Many thanks to all the staff and pupils who helped out. We are really excited to have a link between Matai School and Westgate and the money will help with beds for the students there.

@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":506,"date":"2015-05-29T20:18:22","date\_gmt":"2015-05-29T19:18:22","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2015\\/05\\/DSC\_0355.jpg"},"modified":"2015-05-29T20:18:22","modified\_gmt":"2015-05-29T19:18:22","slug":"dsc\_0355","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/rain-water-harvesting\\/kalalasi-primary\\/dsc\_0355\\/","title":{"rendered":"DSC\_0355"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"

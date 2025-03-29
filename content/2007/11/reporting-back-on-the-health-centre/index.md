@@ -1,6 +1,6 @@
 ---
 title: "Reporting back on the health centre – SUDA"
-slug: "index"
+#slug: "index"
 ---
 
 [Click here](/projects/kalalasi-health-centre/ "Kalalasi Health Centre project page") for the health centre project page. For an account of the trip from Kitty, read on.

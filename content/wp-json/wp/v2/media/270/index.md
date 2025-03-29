@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-slug: "index"
+#slug: "index"
 ---
 
 {"id":270,"date":"2011-09-29T21:55:14","date\_gmt":"2011-09-29T20:55:14","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2008\\/11\\/DSCF3166.jpg"},"modified":"2011-09-29T21:55:14","modified\_gmt":"2011-09-29T20:55:14","slug":"dscf3166-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/schools\\/matai-bunk-beds-project\\/dscf3166-2\\/","title":{"rendered":"The state of the old beds"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"
