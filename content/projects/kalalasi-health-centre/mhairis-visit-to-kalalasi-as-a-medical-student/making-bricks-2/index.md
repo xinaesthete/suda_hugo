@@ -1,5 +1,5 @@
 ---
-title: "Making bricks – SUDA"
+title: "Making bricks"
 #slug: "index"
 ---
 

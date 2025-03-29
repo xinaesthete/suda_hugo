@@ -1,5 +1,5 @@
 ---
-title: "DSCF3106 – SUDA"
+title: "DSCF3106"
 #slug: "index"
 ---
 

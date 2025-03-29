@@ -1,5 +1,5 @@
 ---
-title: "Before greening – SUDA"
+title: "Before greening"
 #slug: "index"
 ---
 

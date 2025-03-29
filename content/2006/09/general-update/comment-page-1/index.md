@@ -1,5 +1,5 @@
 ---
-title: "General update. – SUDA"
+title: "General update."
 #slug: "index"
 ---
 

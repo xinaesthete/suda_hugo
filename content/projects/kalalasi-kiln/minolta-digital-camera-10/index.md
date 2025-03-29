@@ -1,5 +1,5 @@
 ---
-title: "MINOLTA DIGITAL CAMERA – SUDA"
+title: "MINOLTA DIGITAL CAMERA"
 #slug: "index"
 ---
 

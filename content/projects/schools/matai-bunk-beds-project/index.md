@@ -1,5 +1,5 @@
 ---
-title: "Matai Bunk Beds Project – SUDA"
+title: "Matai Bunk Beds Project"
 #slug: "index"
 ---
 

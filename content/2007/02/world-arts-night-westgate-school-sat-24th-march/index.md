@@ -1,5 +1,5 @@
 ---
-title: "World Arts Night: Westgate School, Sat 24th March – SUDA"
+title: "World Arts Night: Westgate School, Sat 24th March"
 #slug: "index"
 ---
 

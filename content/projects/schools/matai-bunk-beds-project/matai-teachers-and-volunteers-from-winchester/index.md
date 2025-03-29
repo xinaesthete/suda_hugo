@@ -1,5 +1,5 @@
 ---
-title: "Matai Teachers and Volunteers from Winchester – SUDA"
+title: "Matai Teachers and Volunteers from Winchester"
 #slug: "index"
 ---
 

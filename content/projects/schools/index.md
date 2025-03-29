@@ -1,5 +1,5 @@
 ---
-title: "Living standards in Schools – SUDA"
+title: "Living standards in Schools"
 #slug: "index"
 ---
 

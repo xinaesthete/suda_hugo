@@ -1,5 +1,5 @@
 ---
-title: "AGM – SUDA"
+title: "AGM"
 #slug: "index"
 ---
 

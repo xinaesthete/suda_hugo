@@ -1,5 +1,5 @@
 ---
-title: "Kalambo Falls – SUDA"
+title: "Kalambo Falls"
 #slug: "index"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Health Centre Opening Ceremony – SUDA"
+title: "Health Centre Opening Ceremony"
 #slug: "index"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Fundraisers – SUDA"
+title: "Upcoming Fundraisers"
 #slug: "index"
 ---
 

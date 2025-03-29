@@ -1,5 +1,5 @@
 ---
-title: "Kalalasi Primary Water Butt – SUDA"
+title: "Kalalasi Primary Water Butt"
 #slug: "index"
 ---
 

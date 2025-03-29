@@ -1,5 +1,5 @@
 ---
-title: "Reporting back on the health centre – SUDA"
+title: "Reporting back on the health centre"
 #slug: "index"
 ---
 

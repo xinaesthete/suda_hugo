@@ -1,5 +1,5 @@
 ---
-title: "DSCF3164 – SUDA"
+title: "DSCF3164"
 #slug: "index"
 ---
 

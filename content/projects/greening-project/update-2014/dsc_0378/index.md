@@ -1,5 +1,5 @@
 ---
-title: "Greening progress – SUDA"
+title: "Greening progress"
 #slug: "index"
 ---
 

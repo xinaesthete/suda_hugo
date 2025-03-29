@@ -1,5 +1,5 @@
 ---
-title: "One Volunteer’s experience. – SUDA"
+title: "One Volunteer’s experience."
 #slug: "index"
 ---
 

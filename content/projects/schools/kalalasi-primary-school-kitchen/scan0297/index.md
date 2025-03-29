@@ -1,5 +1,5 @@
 ---
-title: "scan0297 – SUDA"
+title: "scan0297"
 #slug: "index"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pre-Christmas Fundraiser – SUDA"
+title: "Pre-Christmas Fundraiser"
 #slug: "index"
 ---
 

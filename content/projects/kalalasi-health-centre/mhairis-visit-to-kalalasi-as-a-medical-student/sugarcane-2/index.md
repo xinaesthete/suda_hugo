@@ -1,5 +1,5 @@
 ---
-title: "Sugarcane – SUDA"
+title: "Sugarcane"
 #slug: "index"
 ---
 

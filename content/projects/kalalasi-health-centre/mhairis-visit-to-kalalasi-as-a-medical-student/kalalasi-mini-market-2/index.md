@@ -1,5 +1,5 @@
 ---
-title: "Kalalasi mini market – SUDA"
+title: "Kalalasi mini market"
 #slug: "index"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Kasanga – SUDA"
+title: "Kasanga"
 #slug: "index"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "admin – SUDA"
+title: "admin"
 #slug: "index"
 ---
 

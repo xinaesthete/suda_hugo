@@ -1,5 +1,5 @@
 ---
-title: "Lake Tanganyika – SUDA"
+title: "Lake Tanganyika"
 #slug: "index"
 ---
 

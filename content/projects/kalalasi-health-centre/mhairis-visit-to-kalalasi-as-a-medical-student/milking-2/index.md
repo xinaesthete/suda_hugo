@@ -1,5 +1,5 @@
 ---
-title: "Milking – SUDA"
+title: "Milking"
 #slug: "index"
 ---
 

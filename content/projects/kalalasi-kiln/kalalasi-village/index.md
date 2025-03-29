@@ -1,5 +1,5 @@
 ---
-title: "Kalalasi Village – SUDA"
+title: "Kalalasi Village"
 #slug: "index"
 ---
 

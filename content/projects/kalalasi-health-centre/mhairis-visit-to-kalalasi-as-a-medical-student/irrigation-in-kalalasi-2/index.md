@@ -1,5 +1,5 @@
 ---
-title: "Irrigation in Kalalasi – SUDA"
+title: "Irrigation in Kalalasi"
 #slug: "index"
 ---
 

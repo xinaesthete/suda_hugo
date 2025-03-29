@@ -1,5 +1,5 @@
 ---
-title: "Davinder1530 – SUDA"
+title: "Davinder1530"
 #slug: "index"
 ---
 

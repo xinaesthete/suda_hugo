@@ -1,5 +1,5 @@
 ---
-title: "Kanyele School Beds – SUDA"
+title: "Kanyele School Beds"
 #slug: "index"
 ---
 

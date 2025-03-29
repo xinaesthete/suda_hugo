@@ -1,5 +1,5 @@
 ---
-title: "kapita_bunk – SUDA"
+title: "kapita_bunk"
 #slug: "index"
 ---
 

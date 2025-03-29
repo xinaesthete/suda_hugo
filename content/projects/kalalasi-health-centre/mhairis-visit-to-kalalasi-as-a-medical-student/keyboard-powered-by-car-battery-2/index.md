@@ -1,5 +1,5 @@
 ---
-title: "Keyboard powered by car battery – SUDA"
+title: "Keyboard powered by car battery"
 #slug: "index"
 ---
 

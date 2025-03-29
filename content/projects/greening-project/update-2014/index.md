@@ -1,5 +1,5 @@
 ---
-title: "Greening Update 2014 – SUDA"
+title: "Greening Update 2014"
 #slug: "index"
 ---
 

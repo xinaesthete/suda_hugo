@@ -1,5 +1,5 @@
 ---
-title: "Rain Water Harvesting – SUDA"
+title: "Rain Water Harvesting"
 #slug: "index"
 ---
 

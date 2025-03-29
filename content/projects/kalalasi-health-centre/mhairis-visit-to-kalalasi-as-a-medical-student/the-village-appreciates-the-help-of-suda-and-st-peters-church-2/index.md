@@ -1,5 +1,5 @@
 ---
-title: "The Village appreciates the help of SUDA and St. Peter’s Church – SUDA"
+title: "The Village appreciates the help of SUDA and St. Peter’s Church"
 #slug: "index"
 ---
 

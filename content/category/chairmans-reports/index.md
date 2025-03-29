@@ -1,5 +1,5 @@
 ---
-title: "Chairman’s reports – SUDA"
+title: "Chairman’s reports"
 #slug: "index"
 ---
 

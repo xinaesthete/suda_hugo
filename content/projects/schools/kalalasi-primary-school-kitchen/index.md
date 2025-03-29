@@ -1,5 +1,5 @@
 ---
-title: "Kalalasi Primary School Kitchen – SUDA"
+title: "Kalalasi Primary School Kitchen"
 #slug: "index"
 ---
 

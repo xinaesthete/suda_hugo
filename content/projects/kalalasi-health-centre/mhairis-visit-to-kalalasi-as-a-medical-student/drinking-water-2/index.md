@@ -1,5 +1,5 @@
 ---
-title: "Drinking water – SUDA"
+title: "Drinking water"
 #slug: "index"
 ---
 

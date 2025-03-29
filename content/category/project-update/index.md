@@ -1,5 +1,5 @@
 ---
-title: "project update – SUDA"
+title: "project update"
 #slug: "index"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Weighing children Kalalasi – SUDA"
+title: "Weighing children Kalalasi"
 #slug: "index"
 ---
 

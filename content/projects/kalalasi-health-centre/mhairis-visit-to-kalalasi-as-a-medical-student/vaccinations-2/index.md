@@ -1,5 +1,5 @@
 ---
-title: "Vaccinations – SUDA"
+title: "Vaccinations"
 #slug: "index"
 ---
 

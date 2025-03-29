@@ -1,5 +1,5 @@
 ---
-title: "Kalalasi Kiln – SUDA"
+title: "Kalalasi Kiln"
 #slug: "index"
 ---
 

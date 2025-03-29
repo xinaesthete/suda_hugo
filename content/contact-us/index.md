@@ -1,5 +1,5 @@
 ---
-title: "Contact Us – SUDA"
+title: "Contact Us"
 #slug: "index"
 ---
 

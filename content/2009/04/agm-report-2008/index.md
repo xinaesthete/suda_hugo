@@ -1,5 +1,5 @@
 ---
-title: "AGM Report 2008 – SUDA"
+title: "AGM Report 2008"
 #slug: "index"
 ---
 

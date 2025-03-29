@@ -1,5 +1,5 @@
 ---
-title: "Garden Party: Friday 20th July 2007 4-7 – SUDA"
+title: "Garden Party: Friday 20th July 2007 4-7"
 #slug: "index"
 ---
 

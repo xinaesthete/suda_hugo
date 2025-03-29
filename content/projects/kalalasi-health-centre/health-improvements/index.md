@@ -1,5 +1,5 @@
 ---
-title: "Health Centre Improvements, 2013 – SUDA"
+title: "Health Centre Improvements, 2013"
 #slug: "index"
 ---
 

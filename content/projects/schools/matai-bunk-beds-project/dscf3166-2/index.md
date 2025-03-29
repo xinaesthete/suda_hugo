@@ -1,5 +1,5 @@
 ---
-title: "The state of the old beds – SUDA"
+title: "The state of the old beds"
 #slug: "index"
 ---
 

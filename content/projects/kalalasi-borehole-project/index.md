@@ -1,5 +1,5 @@
 ---
-title: "Kalalasi Borehole Project – SUDA"
+title: "Kalalasi Borehole Project"
 #slug: "index"
 ---
 

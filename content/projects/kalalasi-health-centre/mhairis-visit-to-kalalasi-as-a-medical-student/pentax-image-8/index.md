@@ -1,5 +1,5 @@
 ---
-title: "PENTAX Image – SUDA"
+title: "PENTAX Image"
 #slug: "index"
 ---
 

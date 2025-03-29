@@ -1,5 +1,5 @@
 ---
-title: "IMG-20150413-WA0003 – SUDA"
+title: "IMG-20150413-WA0003"
 #slug: "index"
 ---
 

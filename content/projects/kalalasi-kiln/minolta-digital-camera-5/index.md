@@ -1,5 +1,5 @@
 ---
-title: "How the villagers originally fired their pots. – SUDA"
+title: "How the villagers originally fired their pots."
 #slug: "index"
 ---
 

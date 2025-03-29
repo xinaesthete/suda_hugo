@@ -1,5 +1,5 @@
 ---
-title: "News as of 5th July 2007 – SUDA"
+title: "News as of 5th July 2007"
 #slug: "index"
 ---
 

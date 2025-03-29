@@ -1,5 +1,5 @@
 ---
-title: "News – SUDA"
+title: "News"
 #slug: "index"
 ---
 

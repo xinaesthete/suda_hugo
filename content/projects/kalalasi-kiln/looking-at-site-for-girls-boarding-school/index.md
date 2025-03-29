@@ -1,5 +1,5 @@
 ---
-title: "looking at site for girls boarding school – SUDA"
+title: "looking at site for girls boarding school"
 #slug: "index"
 ---
 

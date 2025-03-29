@@ -1,5 +1,5 @@
 ---
-title: "Welcome to our new website. – SUDA"
+title: "Welcome to our new website."
 #slug: "index"
 ---
 

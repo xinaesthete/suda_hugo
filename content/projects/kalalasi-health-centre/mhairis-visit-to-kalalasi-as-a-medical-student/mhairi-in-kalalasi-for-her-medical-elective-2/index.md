@@ -1,5 +1,5 @@
 ---
-title: "Mhairi in Kalalasi for her Medical elective – SUDA"
+title: "Mhairi in Kalalasi for her Medical elective"
 #slug: "index"
 ---
 

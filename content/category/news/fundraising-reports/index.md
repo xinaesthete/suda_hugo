@@ -1,5 +1,5 @@
 ---
-title: "Fundraising reports – SUDA"
+title: "Fundraising reports"
 #slug: "index"
 ---
 

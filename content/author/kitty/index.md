@@ -1,5 +1,5 @@
 ---
-title: "Kitty – SUDA"
+title: "Kitty"
 #slug: "index"
 ---
 

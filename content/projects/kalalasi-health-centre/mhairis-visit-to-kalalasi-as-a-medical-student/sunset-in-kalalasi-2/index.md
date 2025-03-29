@@ -1,5 +1,5 @@
 ---
-title: "Sunset in Kalalasi – SUDA"
+title: "Sunset in Kalalasi"
 #slug: "index"
 ---
 

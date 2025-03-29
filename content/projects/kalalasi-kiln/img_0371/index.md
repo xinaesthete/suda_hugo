@@ -1,5 +1,5 @@
 ---
-title: "IMG_0371 – SUDA"
+title: "IMG_0371"
 #slug: "index"
 ---
 

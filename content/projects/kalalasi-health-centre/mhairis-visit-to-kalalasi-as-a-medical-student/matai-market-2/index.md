@@ -1,5 +1,5 @@
 ---
-title: "Matai market – SUDA"
+title: "Matai market"
 #slug: "index"
 ---
 

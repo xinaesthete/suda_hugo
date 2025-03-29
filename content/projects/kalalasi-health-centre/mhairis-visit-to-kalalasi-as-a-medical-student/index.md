@@ -1,5 +1,5 @@
 ---
-title: "Mhairi’s Elective visit to Kalalasi as a medical student, Summer 2010 – SUDA"
+title: "Mhairi’s Elective visit to Kalalasi as a medical student, Summer 2010"
 #slug: "index"
 ---
 

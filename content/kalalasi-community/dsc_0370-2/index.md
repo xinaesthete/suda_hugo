@@ -1,5 +1,5 @@
 ---
-title: "DSC_0370 – SUDA"
+title: "DSC_0370"
 #slug: "index"
 ---
 

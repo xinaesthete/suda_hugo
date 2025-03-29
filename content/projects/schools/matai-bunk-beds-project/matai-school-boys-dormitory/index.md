@@ -1,5 +1,5 @@
 ---
-title: "Matai School, Boys dormitory – SUDA"
+title: "Matai School, Boys dormitory"
 #slug: "index"
 ---
 

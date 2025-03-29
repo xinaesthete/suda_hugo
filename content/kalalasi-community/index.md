@@ -1,5 +1,5 @@
 ---
-title: "Kalalasi Community – SUDA"
+title: "Kalalasi Community"
 #slug: "index"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Kalalasi Health Centre – SUDA"
+title: "Kalalasi Health Centre"
 #slug: "index"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "A song and dance to welcome us – SUDA"
+title: "A song and dance to welcome us"
 #slug: "index"
 ---
 
