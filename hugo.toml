@@ -2,6 +2,8 @@ baseURL = 'https://sumbawanga.org.uk/'
 languageCode = 'en-gb'
 title = 'Sumbawanga Development Action'
 theme = 'ananke'
+[params]
+  custom_css = [ "/custom.css" ]
 
 [menu]
   [[menu.main]]
