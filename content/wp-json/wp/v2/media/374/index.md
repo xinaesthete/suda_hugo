@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+slug: "index"
+---
+
+{"id":374,"date":"2011-12-22T19:07:56","date\_gmt":"2011-12-22T19:07:56","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/85.jpg"},"modified":"2011-12-22T19:07:56","modified\_gmt":"2011-12-22T19:07:56","slug":"kalambo-falls-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/kalambo-falls-2\\/","title":{"rendered":"Kalambo Falls"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"
+
+[![\"\"](\"http:\/\/sudawp.loc\/wp-content\/2011\/12\/85-225x300.jpg\")<\\/a><\\/p>\\n](http:\/\/sudawp.loc\/wp-content\/2011\/12\/85.jpg)
+
+[PENTAX Image<\\/p>\\n"},"caption":{"rendered":"](http:\/\/sudawp.loc\/wp-content\/2011\/12\/85.jpg)
+
+[PENTAX Image<\\/p>\\n"},"alt\_text":"","media\_type":"image","mime\_type":"image\\/jpeg","media\_details":{"width":"768","height":"1024","hwstring\_small":"height='96' width='72'","file":"2011\\/12\\/85.jpg","sizes":{"thumbnail":{"file":"85-150x150.jpg","width":"150","height":"150","source\_url":"http:\\/\\/sudawp.loc\\/wp-content\\/2011\\/12\\/85-150x150.jpg"},"medium":{"file":"85-225x300.jpg","width":"225","height":"300","source\_url":"http:\\/\\/sudawp.loc\\/wp-content\\/2011\\/12\\/85-225x300.jpg"},"post-thumbnail":{"file":"85-768x198.jpg","width":"768","height":"198","source\_url":"http:\\/\\/sudawp.loc\\/wp-content\\/2011\\/12\\/85-768x198.jpg"},"full":{"file":"85.jpg","width":768,"height":1024,"mime\_type":"image\\/jpeg","source\_url":"http:\\/\\/sudawp.loc\\/wp-content\\/2011\\/12\\/85.jpg"}},"image\_meta":{"aperture":"2.8","credit":"","camera":"PENTAX Optio 50L","caption":"PENTAX Image","created\_timestamp":"1280842383","copyright":"","focal\_length":"5.4","iso":"64","shutter\_speed":"0.003301","title":"Kalambo Falls"}},"post":331,"source\_url":"http:\\/\\/sudawp.loc\\/wp-content\\/2011\\/12\\/85.jpg","\_links":{"self":\[{"href":"http:\\/\\/sudawp.loc\\/wp-json\\/wp\\/v2\\/media\\/374"}\],"collection":\[{"href":"http:\\/\\/sudawp.loc\\/wp-json\\/wp\\/v2\\/media"}\],"about":\[{"href":"http:\\/\\/sudawp.loc\\/wp-json\\/wp\\/v2\\/types\\/attachment"}\],"author":\[{"embeddable":true,"href":"http:\\/\\/sudawp.loc\\/wp-json\\/wp\\/v2\\/users\\/1"}\],"replies":\[{"embeddable":true,"href":"http:\\/\\/sudawp.loc\\/wp-json\\/wp\\/v2\\/comments?post=374"}\]}}](http:\/\/sudawp.loc\/wp-content\/2011\/12\/85.jpg)

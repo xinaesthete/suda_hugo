@@ -1,4 +1,14 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sumbawanga.org.uk/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Sumbawanga Development Action'
 theme = 'ananke'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Projects'
+    url = '/projects/'
+    weight = 3

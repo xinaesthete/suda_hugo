@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+slug: "index"
+---
+
+{"id":350,"date":"2011-12-22T19:06:10","date\_gmt":"2011-12-22T19:06:10","guid":{"rendered":"http:\\/\\/www.sumbawanga.org.uk\\/wp-content\\/2011\\/12\\/21.jpg"},"modified":"2011-12-22T19:06:10","modified\_gmt":"2011-12-22T19:06:10","slug":"kalalasi-mini-market-2","status":"inherit","type":"attachment","link":"http:\\/\\/sudawp.loc\\/projects\\/kalalasi-health-centre\\/mhairis-visit-to-kalalasi-as-a-medical-student\\/kalalasi-mini-market-2\\/","title":{"rendered":"Kalalasi mini market"},"author":1,"comment\_status":"closed","ping\_status":"open","template":"","meta":\[\],"description":{"rendered":"
+
+[![\"\"](\"http:\/\/sudawp.loc\/wp-content\/2011\/12\/21-300x225.jpg\")<\\/a><\\/p>\\n](http:\/\/sudawp.loc\/wp-content\/2011\/12\/21.jpg)
+
+[PENTAX Image<\\/p>\\n"},"caption":{"rendered":"](http:\/\/sudawp.loc\/wp-content\/2011\/12\/21.jpg)
+
+[PENTAX Image<\\/p>\\n"},"alt\_text":"","media\_type":"image","mime\_type":"image\\/jpeg","media\_details":{"width":"1024","height":"768","hwstring\_small":"height='96' width='128'","file":"2011\\/12\\/21.jpg","sizes":{"thumbnail":{"file":"21-150x150.jpg","width":"150","height":"150","source\_url":"http:\\/\\/sudawp.loc\\/wp-content\\/2011\\/12\\/21-150x150.jpg"},"medium":{"file":"21-300x225.jpg","width":"300","height":"225","source\_url":"http:\\/\\/sudawp.loc\\/wp-content\\/2011\\/12\\/21-300x225.jpg"},"post-thumbnail":{"file":"21-940x198.jpg","width":"940","height":"198","source\_url":"http:\\/\\/sudawp.loc\\/wp-content\\/2011\\/12\\/21-940x198.jpg"},"full":{"file":"21.jpg","width":1024,"height":768,"mime\_type":"image\\/jpeg","source\_url":"http:\\/\\/sudawp.loc\\/wp-content\\/2011\\/12\\/21.jpg"}},"image\_meta":{"aperture":"3.6","credit":"","camera":"PENTAX Optio 50L","caption":"PENTAX Image","created\_timestamp":"1279642940","copyright":"","focal\_length":"9","iso":"64","shutter\_speed":"0.013422","title":"Kalalasi mini market"}},"post":331,"source\_url":"http:\\/\\/sudawp.loc\\/wp-content\\/2011\\/12\\/21.jpg","\_links":{"self":\[{"href":"http:\\/\\/sudawp.loc\\/wp-json\\/wp\\/v2\\/media\\/350"}\],"collection":\[{"href":"http:\\/\\/sudawp.loc\\/wp-json\\/wp\\/v2\\/media"}\],"about":\[{"href":"http:\\/\\/sudawp.loc\\/wp-json\\/wp\\/v2\\/types\\/attachment"}\],"author":\[{"embeddable":true,"href":"http:\\/\\/sudawp.loc\\/wp-json\\/wp\\/v2\\/users\\/1"}\],"replies":\[{"embeddable":true,"href":"http:\\/\\/sudawp.loc\\/wp-json\\/wp\\/v2\\/comments?post=350"}\]}}](http:\/\/sudawp.loc\/wp-content\/2011\/12\/21.jpg)
