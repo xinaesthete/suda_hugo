@@ -1,4 +1,5 @@
 <!-- from ananke theme... changing theme means changing this -->
+{{ partials.Include "paypal-suda.html" }}
 {{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
@@ -36,4 +37,3 @@
     </div>
   </header>
 {{ end }}
-{{ partials.Include "paypal-suda.html" }}
