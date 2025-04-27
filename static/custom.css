@@ -8,4 +8,9 @@
   width: 100%;
   height: auto;
   border-radius: 0.25rem;
+  transition: transform 0.2s;
+}
+
+.gallery img:hover {
+  transform: scale(1.05);
 }
